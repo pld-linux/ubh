@@ -1,6 +1,6 @@
 %include	/usr/lib/rpm/macros.perl
 Summary:	The Usenet Binary Harvester
-Summary(pl):	Usenetowy ¯niwiarz Binariów
+Summary(pl):	Usenetowy ¿niwiarz binariów
 Name:		ubh
 Version:	2.5
 Release:	1
@@ -23,7 +23,7 @@ to keep track of articles already processed. Handles uuencoded
 binaries and MIME attachments.
 
 %description -l pl
-ubh - Usenetowy ¬niwiarz Binarek jest perlow± aplikacj± dzia³aj±c± na
+ubh - usenetowy ¿niwiarz binarek jest perlow± aplikacj± dzia³aj±c± na
 konsoli która automatycznie rozpoznaje, ¶ci±ga i dekoduje pojedyñcze i
 wieloczê¶ciowe binaria zamieszczone w usenecie. Wieloczê¶ciowe
 przesy³ki s± automatycznie ³±czone. Obs³uguje wyszukiwanie przez
