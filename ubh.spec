@@ -1,6 +1,6 @@
 %include        /usr/lib/rpm/macros.perl
 Summary:	The Usenet Binary Harvester
-Summary(pl):	Usenetowy ¯niwiarz 
+Summary(pl):	Usenetowy ¯niwiarz
 Name:		ubh
 Version:	2.1
 Release:	1
