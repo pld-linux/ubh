@@ -2,7 +2,7 @@
 Summary:	The Usenet Binary Harvester
 Summary(pl):	Usenetowy ¯niwiarz
 Name:		ubh
-Version:	2.1
+Version:	2.5
 Release:	1
 License:	GPL
 Group:		Networking/Utilities
@@ -36,14 +36,13 @@ uuencodowane binaria i za³±czniki MIME.
 
 %install
 rm -rf $RPM_BUILD_ROOT
-install -D ubh $RPM_BUILD_ROOT%{_bindir}/ubh
-
-gzip -9nf CHANGES README TODO
+install -d $RPM_BUILD_ROOT%{_bindir}
+install ubh contrib/mydecode contrib/newshark $RPM_BUILD_ROOT%{_bindir}
 
 %clean
 rm -rf $RPM_BUILD_ROOT
 
 %files
 %defattr(644,root,root,755)
-%doc *.gz
+%doc CHANGES README TODO examples doc/*
 %attr(755,root,root) %{_bindir}/*
