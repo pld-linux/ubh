@@ -8,6 +8,7 @@ License:	GPL
 Group:		Networking/Utilities
 Source0:	http://ubh.sourceforge.net/download/%{name}-%{version}.tar.gz
 # Source0-md5:	3e16a79b92da43318924587df4e0dc3b
+URL:		http://ubh.sourceforge.net
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
