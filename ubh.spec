@@ -24,7 +24,7 @@ binaries and MIME attachments.
 
 %description -l pl
 ubh - usenetowy ¿niwiarz binarek jest perlow± aplikacj± dzia³aj±c± na
-konsoli która automatycznie rozpoznaje, ¶ci±ga i dekoduje pojedyñcze i
+konsoli która automatycznie rozpoznaje, ¶ci±ga i dekoduje pojedyncze i
 wieloczê¶ciowe binaria zamieszczone w usenecie. Wieloczê¶ciowe
 przesy³ki s± automatycznie ³±czone. Obs³uguje wyszukiwanie przez
 perlow± sk³adniê wyra¿eñ regularnych. Pozwala tak¿e na wstêpny wybór
