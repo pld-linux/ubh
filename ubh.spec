@@ -3,7 +3,7 @@ Summary:	The Usenet Binary Harvester
 Summary(pl):	Usenetowy ¿niwiarz binariów
 Name:		ubh
 Version:	2.5
-Release:	1
+Release:	2
 License:	GPL
 Group:		Networking/Utilities
 Source0:	http://ubh.sourceforge.net/download/%{name}-%{version}.tar.gz
