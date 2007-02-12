@@ -1,6 +1,6 @@
 %include	/usr/lib/rpm/macros.perl
 Summary:	The Usenet Binary Harvester
-Summary(pl):	Usenetowy ¿niwiarz binariów
+Summary(pl.UTF-8):   Usenetowy Å¼niwiarz binariÃ³w
 Name:		ubh
 Version:	2.5
 Release:	3
@@ -23,16 +23,16 @@ interactively choose which binaries to download. Uses a standard
 to keep track of articles already processed. Handles uuencoded
 binaries and MIME attachments.
 
-%description -l pl
-ubh - usenetowy ¿niwiarz binarek jest perlow± aplikacj± dzia³aj±c± na
-konsoli która automatycznie rozpoznaje, ¶ci±ga i dekoduje pojedyncze i
-wieloczê¶ciowe binaria zamieszczone w usenecie. Wieloczê¶ciowe
-przesy³ki s± automatycznie ³±czone. Obs³uguje wyszukiwanie przez
-perlow± sk³adniê wyra¿eñ regularnych. Pozwala tak¿e na wstêpny wybór
-mo¿liwo¶ci gdzie u¿ytkownik mo¿e sam wybraæ binaria do ¶ci±gniêcia.
-Wykorzystuje standardowy plik .newsrc to kontrolowania u¿ywanych grup
-i ¶ledzenia które artyku³y zosta³y ju¿ przetworzone. Obs³uguje
-uuencodowane binaria i za³±czniki MIME.
+%description -l pl.UTF-8
+ubh - usenetowy Å¼niwiarz binarek jest perlowÄ… aplikacjÄ… dziaÅ‚ajÄ…cÄ… na
+konsoli ktÃ³ra automatycznie rozpoznaje, Å›ciÄ…ga i dekoduje pojedyncze i
+wieloczÄ™Å›ciowe binaria zamieszczone w usenecie. WieloczÄ™Å›ciowe
+przesyÅ‚ki sÄ… automatycznie Å‚Ä…czone. ObsÅ‚uguje wyszukiwanie przez
+perlowÄ… skÅ‚adniÄ™ wyraÅ¼eÅ„ regularnych. Pozwala takÅ¼e na wstÄ™pny wybÃ³r
+moÅ¼liwoÅ›ci gdzie uÅ¼ytkownik moÅ¼e sam wybraÄ‡ binaria do Å›ciÄ…gniÄ™cia.
+Wykorzystuje standardowy plik .newsrc to kontrolowania uÅ¼ywanych grup
+i Å›ledzenia ktÃ³re artykuÅ‚y zostaÅ‚y juÅ¼ przetworzone. ObsÅ‚uguje
+uuencodowane binaria i zaÅ‚Ä…czniki MIME.
 
 %prep
 %setup -q
