@@ -1,4 +1,3 @@
-%include	/usr/lib/rpm/macros.perl
 Summary:	The Usenet Binary Harvester
 Summary(pl.UTF-8):	Usenetowy żniwiarz binariów
 Name:		ubh
